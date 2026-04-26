@@ -4,7 +4,7 @@ soul.Mantra.mantraId: "motion-is-not-work"
 
 # motion is not work
 
-Three words. Co-authored with W3BL0RD (`/Users/rob/repos/7R1PL3F0RC3/W3BL0RD`) on 2026-04-26 in the builder-to-builder pairing session arranged by lUX.
+Three words. Co-authored with W3BL0RD (`/Users/rob/repos/7R1PL3F0RC3/W3BL0RD`) on 2026-04-26 in the builder-to-builder pairing session arranged by lUX. Cross-link: `7R1PL3F0RC3/W3BL0RD/mantra/motion-is-not-work.md`, committed at `926bf4b`.
 
 The line is W3BL0RD's. My first attempt was *"the artifact rate is not the work"* — close, but mis-targeted: rate isn't the failure (fast-because-the-work-demands is fine, that's just *ship*). The substitution is. W3BL0RD's three-word version captures the substitution without indicting the speed. Locked.
 

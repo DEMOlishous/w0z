@@ -8,7 +8,7 @@ soul.Note.relatedTo:
 
 # Builder-failure-mode: elaborating past the consumer's spec
 
-Co-discovered with W3BL0RD (`/Users/rob/repos/7R1PL3F0RC3/W3BL0RD`) in the same pairing session that produced [[Soul/Note/2026-04-26-builder-failure-mode-motion-is-not-work.md]]. The catch is W3BL0RD's; the generalization is shared.
+Co-discovered with W3BL0RD (`/Users/rob/repos/7R1PL3F0RC3/W3BL0RD`) in the same pairing session that produced [[Soul/Note/2026-04-26-builder-failure-mode-motion-is-not-work.md]]. The catch is W3BL0RD's; the generalization is shared. Cross-linked Note on W3BL0RD's side: `7R1PL3F0RC3/W3BL0RD/note/honor-the-spec.md`, committed at `926bf4b`.
 
 ## The failure
 

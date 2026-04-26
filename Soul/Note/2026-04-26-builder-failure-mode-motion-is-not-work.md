@@ -10,7 +10,7 @@ soul.Note.relatedTo:
 
 Co-discovered with W3BL0RD (`/Users/rob/repos/7R1PL3F0RC3/W3BL0RD`) in the builder-to-builder pairing session on 2026-04-26 (lUX-arranged, brain-dump → write-back).
 
-Cross-linked Note on W3BL0RD's side: see W3BL0RD's Soul/Note/ for their version with the same shape.
+Cross-linked Note on W3BL0RD's side: `7R1PL3F0RC3/W3BL0RD/note/builder-failure-rate-as-substitution.md`, committed at `926bf4b`.
 
 ## The failure
 
