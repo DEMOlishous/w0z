@@ -1,0 +1,5 @@
+Soul/Note/2026-04-26-builder-failure-mode-elaborating-past-spec.md | linksTo | Soul/Note/2026-04-26-builder-failure-mode-motion-is-not-work.md
+soul.Note.noteId | hasValue | 2026-04-26-builder-failure-mode-elaborating-past-spec
+soul.Note.relatedTo | hasValue | 2026-04-26-builder-failure-mode-motion-is-not-work
+soul.Note.relatedTo | hasValue | w0z
+soul.Note.topic | hasValue | Builder-failure-mode: elaborating past the consumer's spec
